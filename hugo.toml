@@ -1,0 +1,7 @@
+baseURL = 'https://biancavemparaberlim.com/'
+languageCode = 'en-us'
+title = 'BVPB'
+theme = 'bvpb'
+
+[params]
+sitedescription = 'BVPB'
